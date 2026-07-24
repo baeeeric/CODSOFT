@@ -1,21 +1,25 @@
-- CODSOFT Python Internship
+CODSOFT Python Internship
 
-This repository contains the Python internship tasks completed as part of the CodSoft Internship Program.
 
-- Tasks Completed
+This repository contains the Python projects completed as part of the CodSoft Python Internship Program.
 
-- Task 1: Calculator
-A simple calculator that performs:
+Tasks Completed
+---------------
+
+Task 1: Calculator
+A simple calculator that performs basic arithmetic operations:
 - Addition
 - Subtraction
 - Multiplication
 - Division
 
-- Task 2: Password Generator
-A Python program that generates random passwords based on the length entered by the user.
+Task 2: Password Generator
+A Python program that generates secure random passwords based on the user-specified length using letters, numbers, and special characters.
 
-- Task 3: Rock Paper Scissors
-A simple Rock Paper Scissors game where the user plays against the computer.
+Task 3: Rock Paper Scissors
+A command-line Rock Paper Scissors game where the user competes against the computer with randomly generated moves.
 
- Language Used
+Technologies Used
+-----------------
 - Python
+
